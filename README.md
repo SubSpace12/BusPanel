@@ -1,7 +1,5 @@
-# Tauri + Vanilla
+# Bus Panel
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
+This is one of the two projects I made to learn rust. It uses Warsaw's public transport API to generate a panel of upcoming bus arrivals. The front-end is highly customizable, and you can use this to display the arrivals of any bus in Warsaw.
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+In the future, I plan on improving the performance of the back-end, as it is not very effective right now.
